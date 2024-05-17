@@ -39,11 +39,15 @@ Este projeto tem como objetivo criar uma loja virtual completa chamada Edinho Va
     - **No Windows:**
         ```
         python -m venv nome_do_ambiente
+        ```
+        ```
         nome_do_ambiente\Scripts\activate
         ```
     - **No macOS e Linux:**
         ```
         python3 -m venv nome_do_ambiente
+        ```
+        ```
         source nome_do_ambiente/bin/activate
         ```
 
